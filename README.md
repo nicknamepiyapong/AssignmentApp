@@ -27,17 +27,9 @@ so we are able to use the same mindset of the web to develop with React Native c
 
 ## Install and run on android
 ```
-npm install -g react-native-cli
-cd react-native-quick-sample
+cd AssignmentApp
 npm install
 react-native run-android
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
