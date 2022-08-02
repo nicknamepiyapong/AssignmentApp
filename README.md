@@ -14,6 +14,9 @@ so we are able to use the same mindset of the web to develop with React Native c
 ## Prerequisites
 
 - [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
+- [Watchman](https://facebook.github.io/watchman)
+- [Xcode 12](https://developer.apple.com/xcode)
+- [Cocoapods](https://cocoapods.org)
 - [JDK > 12]
 - [Android Studio and Android SDK](https://developer.android.com/studio)
 
