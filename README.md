@@ -32,6 +32,15 @@ npm install
 react-native run-android
 ```
 
+## Install and run on iOS
+```
+cd AssignmentApp
+npm install
+cd ios
+pod install
+react-native run-ios
+```
+
 ## Authors
 
 Authors: Piyapong Wongswas
