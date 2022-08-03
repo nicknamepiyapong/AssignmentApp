@@ -47,5 +47,5 @@ react-native run-ios
 ## Authors
 
 Authors: Piyapong Wongsawas
-email: nickname.piyapong Wongsawas
+email: nickname.piyapong
 
